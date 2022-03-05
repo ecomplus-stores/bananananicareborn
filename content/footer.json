@@ -1,7 +1,7 @@
 {
   "description": {
-    "title": "",
-    "text": ""
+    "title": "Bebê Reborn Banana Nanica vendendo com segurança desde 2017. ❤️",
+    "text": "Referência em qualidadde, pontualidade e felicidade, aqui garantimos a sua alegria ❤️❤️"
   },
   "links_1": {
     "list_pages": true,
@@ -9,9 +9,11 @@
     "list": []
   },
   "links_2": {
-    "list_categories": true,
-    "title": "Categorias",
-    "list": []
+    "list_categories": false,
+    "title": "",
+    "list": [
+      {}
+    ]
   },
   "contacts": {
     "title": "Contatos",
@@ -30,16 +32,20 @@
     "bb": true,
     "visa": true,
     "boleto": true,
-    "aura": false,
+    "aura": true,
     "banrisul": false,
     "elo": true,
-    "hipercard": false,
+    "hipercard": true,
     "hsbc": false,
     "bradesco": true,
-    "santander": false,
+    "santander": true,
     "mastercard": true,
+    "paypal": true,
     "citibank": false,
-    "mais": false,
+    "hiper": true,
+    "diners": true,
+    "mais": true,
+    "amex": true,
     "itau": true
   },
   "credits": ""
