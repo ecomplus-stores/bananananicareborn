@@ -1,12 +1,12 @@
 {
-  "domain": "www.bananananicarebrn.com.br",
+  "domain": "www.bananananicareborn.com.br",
   "currency_symbol": "R$",
   "primary_color": "#fec32b",
   "theme": {
     "bootswatch": "flatly",
     "custom": "_"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#fec32b",
   "repository": "ecomplus-stores/bananananicareborn",
   "logo": "/img/uploads/logo_bananananica.jpg",
   "name": "Banana Nanica Reborn",
