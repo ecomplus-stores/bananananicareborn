@@ -12,15 +12,8 @@
           "link": "",
           "alt": "",
           "start": "2022-03-05T14:30:13.278Z",
-          "end": "2020-12-31T03:00:00.000Z",
-          "mobile_img": "/img/uploads/anali2.jpg"
-        },
-        {
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
-          "start": "",
           "end": "",
-          "mobile_img": "/img/uploads/passion.webp"
+          "mobile_img": "/img/uploads/anali2.jpg"
         }
       ]
     },
@@ -33,15 +26,31 @@
       "shuffle": true,
       "collection_id": null,
       "sort": "offers",
-      "title": "",
+      "title": "Ofertas",
       "headless": false,
       "limit": 12,
       "page": 1
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news",
+      "title": "Lançamentos"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "sales",
+      "title": "Os Preferidos"
+    },
+    {
       "type": "page-title",
-      "title": "Loja demo da E-Com Plus",
-      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
+      "title": "Bebê Reborn | Banana nanica",
+      "description": ""
     }
   ]
 }
