@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.9d61a931f282f0b3486765372a9129fe.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.f1dc3a87a5e7f77cb744db6d8fda3f74.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.4be187639943999fb0eae0e3832ccb7f.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.aa1e739a03b1140ec5d12afcdf465524.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.1f5a0036e7302ffcd002bc958b396f2a.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "Banana Nanica Reborn",
+  "short_name": "Banana Nanica Reborn",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Banana Nanica Reborn vendemos alegria desde 2017, com confiança e satisfação. ",
+  "background_color": "#fec32b",
+  "theme_color": "#fec32b"
+}
